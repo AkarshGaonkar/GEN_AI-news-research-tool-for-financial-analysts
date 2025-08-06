@@ -1,4 +1,14 @@
-**RockyBot: News Research Tool** 
+This project is an inspiration after a similar tool I saw online. 
+The twist? This is a completely free and fully local alternative, at the cost of minimal accuracy and speed.
+This allows for full control over the developement procedure and complete security.
+
+I saw a smimilar tool online that used the openAI api to access their top models. Being a broke college kid doesn't allow for 
+that luxury. My next throught, "lets use a free api like deepseek!". The problem, security issues. They use the data we sewnd through the API, THE API IS FREE FOR A REASON!
+
+So this project is fully based on open suource models. The model in use here is a small open source language model from google, and 
+most of the other NLP tools in use are from the Hugging Face SDK. Shout out hugging face!
+
+**Analyst buddy: A News Research Tool** 
 
 A free AI-powered news research tool that analyzes news articles and answers questions about them. No API keys required!
 
